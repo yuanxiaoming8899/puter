@@ -1,178 +1,139 @@
-<h3 align="center"><img width="80" alt="Puter.com, The Personal Cloud Computer: All your files, apps, and games in one place accessible from anywhere at any time." src="https://assets.puter.site/puter-logo.png"></h3>
-
-<h3 align="center">The Internet OS! Free, Open-Source, and Self-Hostable!</h3>
-
-<p align="center">
-    <a href="https://puter.com/"><strong>« LIVE DEMO »</strong></a>
-    <br />
-    <br />
-    <a href="https://puter.com">Puter.com</a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/45728aadda95f178ec0e4f26999b5f7cc4cd74882d80872ecb46142258177f66/68747470733a2f2f6173736574732e70757465722e736974652f70757465722d6c6f676f2e706e67"><img width="80" alt="Puter.com，个人云计算机：您的所有文件、应用程序和游戏都位于一个位置，可以随时随地访问。" src="https://camo.githubusercontent.com/45728aadda95f178ec0e4f26999b5f7cc4cd74882d80872ecb46142258177f66/68747470733a2f2f6173736574732e70757465722e736974652f70757465722d6c6f676f2e706e67" data-canonical-src="https://assets.puter.site/puter-logo.png" style="max-width: 100%;"></a></h3><a id="" class="anchor" aria-label="永久链接：" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互联网操作系统！免费、开源且可自行托管！</font></font></h3><a id="user-content-the-internet-os-free-open-source-and-self-hostable" class="anchor" aria-label="永久链接：互联网操作系统！免费、开源且可自行托管！" href="#the-internet-os-free-open-source-and-self-hostable"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+    <a href="https://puter.com/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« 现场演示 »</font></font></strong></a>
+    <br>
+    <br>
+    <a href="https://puter.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Puter.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
     ·
-    <a href="https://docs.puter.com" target="_blank">SDK</a>
+    </font></font><a href="https://docs.puter.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> SDK</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
     ·
-    <a href="https://discord.com/invite/PQcx7Teh8u">Discord</a>
+    </font></font><a href="https://discord.com/invite/PQcx7Teh8u" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
     ·
-    <a href="https://reddit.com/r/puter">Reddit</a>
+    </font></font><a href="https://reddit.com/r/puter" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Reddit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
     ·
-    <a href="https://twitter.com/HeyPuter">X (Twitter)</a>
+    </font></font><a href="https://twitter.com/HeyPuter" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> X (Twitter)</font></font></a>
 </p>
-
-<h3 align="center"><img width="700" style="border-radius:5px;" alt="screenshot" src="https://assets.puter.site/puter.com-screenshot-2.webp"></h3>
-
-<br/>
-
-## Puter
-
-Puter is an advanced, open-source internet operating system designed to be feature-rich, exceptionally fast, and highly extensible. It can be used to build remote desktop environments or serve as an interface for cloud storage services, remote servers, web hosting platforms, and more.
-
-<br/>
-
-## Getting Started
-
-After reading this section, please proceed to **Self-Hosting** and **Configuration** below.
-Read these instructions carefully or you may see errors due to
-an invalid setup.
-
-### Local Development
-
-```bash
-git clone https://github.com/HeyPuter/puter
+<div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3069986234ddeb463c411dc613d2d62d64cf7f485d2b76c15946ab02607c174c/68747470733a2f2f6173736574732e70757465722e736974652f70757465722e636f6d2d73637265656e73686f742d322e77656270"><img width="700" alt="截屏" src="https://camo.githubusercontent.com/3069986234ddeb463c411dc613d2d62d64cf7f485d2b76c15946ab02607c174c/68747470733a2f2f6173736574732e70757465722e736974652f70757465722e636f6d2d73637265656e73686f742d322e77656270" data-canonical-src="https://assets.puter.site/puter.com-screenshot-2.webp" style="max-width: 100%;"></a></h3><a id="user-content--1" class="anchor" aria-label="永久链接：" href="#-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">普特</font></font></h2><a id="user-content-puter" class="anchor" aria-label="永久链接：普特" href="#puter"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puter 是一种先进的开源互联网操作系统，旨在功能丰富、速度极快且可高度扩展。它可用于构建远程桌面环境或用作云存储服务、远程服务器、Web 托管平台等的接口。</font></font></p>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读本节后，请继续阅读下面的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。请仔细阅读这些说明，否则您可能会因设置无效而看到错误。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地发展</font></font></h3><a id="user-content-local-development" class="anchor" aria-label="永久链接：地方发展" href="#local-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/HeyPuter/puter
+<span class="pl-c1">cd</span> puter
+npm install
+npm start</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/HeyPuter/puter
 cd puter
 npm install
-npm start
-```
-
-This will launch Puter at http://localhost:4000 (or the next available port).
-
-<br/>
-
-### Using Docker
-
-**note:** it is **not** necessary to run this within a clone of this repository. For contributors, it is recommended to use the [Local Development](#local-development) instructions.
-
-```bash
-mkdir puter && cd puter && mkdir -p puter/config puter/data && sudo chown -R 1000:1000 puter && docker run --rm -p 4100:4100 -v `pwd`/puter/config:/etc/puter -v `pwd`/puter/data:/var/puter  ghcr.io/heyputer/puter
-```
-
-### Using Docker Compose
-
-**note:** it is **not** necessary to run this within a clone of this repository. For contributors, it is recommended to use the [Local Development](#local-development) instructions.
-
-```bash
-mkdir -p puter/config puter/data
+npm start" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这将在</font></font><a href="http://localhost:4000" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:4000</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（或下一个可用端口）启动 Puter。</font></font></p>
+<br>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Docker</font></font></h3><a id="user-content-using-docker" class="anchor" aria-label="永久链接：使用 Docker" href="#using-docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">没有</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">必要</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此存储库的克隆中运行它。对于贡献者，建议使用</font></font><a href="#local-development"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地开发</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">说明。</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>mkdir puter <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">cd</span> puter <span class="pl-k">&amp;&amp;</span> mkdir -p puter/config puter/data <span class="pl-k">&amp;&amp;</span> sudo chown -R 1000:1000 puter <span class="pl-k">&amp;&amp;</span> docker run --rm -p 4100:4100 -v <span class="pl-s"><span class="pl-pds">`</span>pwd<span class="pl-pds">`</span></span>/puter/config:/etc/puter -v <span class="pl-s"><span class="pl-pds">`</span>pwd<span class="pl-pds">`</span></span>/puter/data:/var/puter  ghcr.io/heyputer/puter</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="mkdir puter &amp;&amp; cd puter &amp;&amp; mkdir -p puter/config puter/data &amp;&amp; sudo chown -R 1000:1000 puter &amp;&amp; docker run --rm -p 4100:4100 -v `pwd`/puter/config:/etc/puter -v `pwd`/puter/data:/var/puter  ghcr.io/heyputer/puter" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Docker 组合</font></font></h3><a id="user-content-using-docker-compose" class="anchor" aria-label="永久链接：使用 Docker Compose" href="#using-docker-compose"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">没有</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">必要</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此存储库的克隆中运行它。对于贡献者，建议使用</font></font><a href="#local-development"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地开发</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">说明。</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>mkdir -p puter/config puter/data
 sudo chown -R 1000:1000 puter
 wget https://raw.githubusercontent.com/HeyPuter/puter/main/docker-compose.yml
-docker compose up
-```
-
-<br/>
-
-See [Configuration](#configuration) for next steps.
-
-<br/>
-
-## ⚠️ Self-Hosting ⚠️
-The self-hosted version of Puter is currently in alpha stage and should not be used in production yet. It is under active development and may contain bugs, other issues. Please exercise caution and use it for testing and evaluation purposes only.
-
-<br/>
-
-## Configuration
-
-Running the server will generate a configuration file in one of these locations:
-- `config/config.json` when [Using Docker](#using-docker)
-- `volatile/config/config.json` in [Local Development](#local-development)
-- `/etc/puter/config.json` on a server (or within a Docker container)
-
-### Domain Name
-
-To access Puter on your device, you can simply go to the address printed in
-the server console (usually `puter.localhost:4100`).
-
-To access Puter from another device, a domain name must be configured, as well as
-an `api` subdomain. For example, `example.local` might be the domain name pointing
-to the IP address of the server running puter, and `api.example.com` must point to
-this address as well. This domain must be specified in the configuration file
-(usually `volatile/config/config.json`) as well.
-
-See [domain configuration](./doc/self-hosters/domains.md) for more information.
-
-### Configure the Port
-
-- You can specify a custom port by setting `http_port` to a desired value
-- If you're using a reverse-proxy such as nginx or cloudflare, you should
-  also set `pub_port` to the public (external) port (usually `443`)
-- If you have HTTPS enabled on your reverse-proxy, ensure that
-  `protocol` in config.json is set accordingly
-
-### Default User
-
-By default, Puter will create a user called `default_user`.
-This user will have a randomly generated password, which will be printed
-in the development console.
-A warning will persist in the dev console until this user's
-password is changed. Please login to this user and change the password as
-your first step. This user by default has 10GB storage instead of the default
-(500MB storage) for new/temporary users.
-
-<br/>
-
-##  License
-
-This repository is licensed under AGPL3. However, our SDK (puter.js) is also available under Apache 2.0, as indicated by the license file in that section (packages/puter-dot-js) of this repository.
-
-<br/>
-
-## FAQ
-
-### ❓ What's the use case for Puter?
-
-Puter can be used as:
-
-- An alternative to Dropbox, Google Drive, OneDrive, etc. with a fresh interface and powerful features.
-- Remote desktop environment for servers and workstations.
-- A platform for building and hosting websites, web apps, and games.
-- A friendly, open-source project and community to learn about web development, cloud computing, distributed systems, and much more!
-
-<br/>
-
-
-### ❓ Why isn't Puter built with React, Angular, Vue, etc.?
-
-For performance reasons, Puter is built with vanilla JavaScript and jQuery. Additionally, we'd like to avoid complex abstractions and to remain in control of the entire stack, as much as possible.
-
-Also partly inspired by some of our favorite projects that are not built with frameworks: [VSCode](https://github.com/microsoft/vscode), [Photopea](https://www.photopea.com/), and [OnlyOffice](https://www.onlyoffice.com/).
-
-<br/>
-
-### ❓ Why jQuery?
-
-Puter interacts directly with the DOM and jQuery provides an elegant yet powerful API to manipulate the DOM, handle events, and much more. It's also fast, mature, and battle-tested. 
-
-<br/>
-
-## #DoesItRunPuter
-
-- [Minecraft](https://twitter.com/HeyPuter/status/1771957571496092036) | [video](https://www.youtube.com/watch?v=GIowZUXkg5g)
-- [PlayStation 4](https://twitter.com/HeyPuter/status/1767978053014270059)
-- [Skyworth TV](https://twitter.com/ericalexdube/status/1767983049277411564)
-- [A Fridge!](https://twitter.com/HeyPuter/status/1778890003797745842)
-- [Oculus Quest 2](https://twitter.com/HeyPuter/status/1768664081756754012)
-- [Tesla Model S](https://twitter.com/HeyPuter/status/1767971178864587057)
-- [Tesla Model Y](https://twitter.com/HeyPuter/status/1772858333751636310)
-- Tesla Model 3
-
-<br/>
-
-## Credits
-
-The default wallpaper is created by [Milad Fakurian](https://unsplash.com/photos/blue-orange-and-yellow-wallpaper-E8Ufcyxz514) and published on [Unsplash](https://unsplash.com/).
-
-Icons by [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) under GPL-3.0 license.
-
-Icons by [Iconoir](https://iconoir.com/) under MIT license.
-
-Icons by [Elementary Icons](https://github.com/elementary/icons) under GPL-3.0 license.
-
-Icons by [Tabler Icons](https://tabler.io/) under MIT license.
-
-Icons by [bootstrap-icons](https://icons.getbootstrap.com/) under MIT license.
+docker compose up</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="mkdir -p puter/config puter/data
+sudo chown -R 1000:1000 puter
+wget https://raw.githubusercontent.com/HeyPuter/puter/main/docker-compose.yml
+docker compose up" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<br>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="#configuration"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解后续步骤。</font></font></p>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><g-emoji class="g-emoji" alias="warning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚠️</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font><g-emoji class="g-emoji" alias="warning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚠️</font></font></g-emoji></h2><a id="user-content-️-self-hosting-️" class="anchor" aria-label="永久链接：⚠️自托管⚠️" href="#️-self-hosting-️"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puter 的自托管版本目前处于 alpha 阶段，尚不应该在生产中使用。它正在积极开发中，可能包含错误和其他问题。请谨慎使用，仅将其用于测试和评估目的。</font></font></p>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></h2><a id="user-content-configuration" class="anchor" aria-label="永久链接：配置" href="#configuration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行服务器将在以下位置之一生成配置文件：</font></font></p>
+<ul dir="auto">
+<li><code>config/config.json</code><font style="vertical-align: inherit;"><a href="#using-docker"><font style="vertical-align: inherit;">使用 Docker</font></a><font style="vertical-align: inherit;">时</font></font><a href="#using-docker"><font style="vertical-align: inherit;"></font></a></li>
+<li><code>volatile/config/config.json</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地方</font></font><a href="#local-development"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></a></li>
+<li><code>/etc/puter/config.json</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在服务器上（或在 Docker 容器内）</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">域名</font></font></h3><a id="user-content-domain-name" class="anchor" aria-label="永久链接：域名" href="#domain-name"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要访问设备上的 Puter，您只需转到服务器控制台中打印的地址（通常为</font></font><code>puter.localhost:4100</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）即可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要从其他设备访问 Puter，必须配置域名和</font></font><code>api</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">子域。例如，</font></font><code>example.local</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可能是指向运行puter的服务器的IP地址的域名，并且</font></font><code>api.example.com</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">也必须指向该地址。该域</font></font><code>volatile/config/config.json</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">也</font><font style="vertical-align: inherit;">必须在配置文件中指定（通常）。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关详细信息，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="/HeyPuter/puter/blob/main/doc/self-hosters/domains.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">域配置。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置端口</font></font></h3><a id="user-content-configure-the-port" class="anchor" aria-label="永久链接：配置端口" href="#configure-the-port"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>http_port</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以通过设置所需的值来</font><font style="vertical-align: inherit;">指定自定义端口</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您使用反向代理，例如 nginx 或 cloudflare，您还应该设置</font></font><code>pub_port</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为公共（外部）端口（通常</font></font><code>443</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您在反向代理上启用了 HTTPS，请确保
+</font></font><code>protocol</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 config.json 中进行相应设置</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">默认用户</font></font></h3><a id="user-content-default-user" class="anchor" aria-label="永久链接：默认用户" href="#default-user"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">默认情况下，Puter 将创建一个名为 的用户</font></font><code>default_user</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。该用户将有一个随机生成的密码，该密码将打印在开发控制台中。在更改该用户的密码之前，开发控制台中将持续显示警告。请登录该用户并更改密码作为第一步。默认情况下，该用户拥有 10GB 存储空间，而不是新/临时用户的默认存储空间（500MB 存储空间）。</font></font></p>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该存储库已获得 AGPL3 许可。但是，我们的 SDK (puter.js) 也可以在 Apache 2.0 下使用，如该存储库的该部分 (packages/puter-dot-js) 中的许可证文件所示。</font></font></p>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常问问题</font></font></h2><a id="user-content-faq" class="anchor" aria-label="永久链接：常见问题解答" href="#faq"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❓ Puter 的用例是什么？</font></font></h3><a id="user-content--whats-the-use-case-for-puter" class="anchor" aria-label="永久链接：❓ Puter 的用例是什么？" href="#-whats-the-use-case-for-puter"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电脑可以用作：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dropbox、Google Drive、OneDrive 等的替代品，具有新颖的界面和强大的功能。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务器和工作站的远程桌面环境。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于构建和托管网站、网络应用程序和游戏的平台。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个友好的开源项目和社区，用于了解 Web 开发、云计算、分布式系统等！</font></font></li>
+</ul>
+<br>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❓ 为什么 Puter 不使用 React、Angular、Vue 等构建？</font></font></h3><a id="user-content--why-isnt-puter-built-with-react-angular-vue-etc" class="anchor" aria-label="永久链接：❓ 为什么 Puter 不使用 React、Angular、Vue 等构建？" href="#-why-isnt-puter-built-with-react-angular-vue-etc"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">出于性能方面的考虑，Puter 是使用普通 JavaScript 和 jQuery 构建的。此外，我们希望避免复杂的抽象并尽可能保持对整个堆栈的控制。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部分灵感也来自我们最喜欢的一些非框架构建的项目：</font></font><a href="https://github.com/microsoft/vscode"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VSCode</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.photopea.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Photopea</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://www.onlyoffice.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OnlyOffice</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<br>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❓ 为什么选择 jQuery？</font></font></h3><a id="user-content--why-jquery" class="anchor" aria-label="永久链接：❓ 为什么选择 jQuery？" href="#-why-jquery"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Puter 直接与 DOM 交互，而 jQuery 提供了一个优雅而强大的 API 来操作 DOM、处理事件等等。它还快速、成熟且经过实战考验。</font></font></p>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#DoesItRunPuter</font></font></h2><a id="user-content-doesitrunputer" class="anchor" aria-label="永久链接：#DoesItRunPuter" href="#doesitrunputer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://twitter.com/HeyPuter/status/1771957571496092036" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的世界</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="https://www.youtube.com/watch?v=GIowZUXkg5g" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a></li>
+<li><a href="https://twitter.com/HeyPuter/status/1767978053014270059" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏机4</font></font></a></li>
+<li><a href="https://twitter.com/ericalexdube/status/1767983049277411564" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创维电视</font></font></a></li>
+<li><a href="https://twitter.com/HeyPuter/status/1778890003797745842" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">冰箱！</font></font></a></li>
+<li><a href="https://twitter.com/HeyPuter/status/1768664081756754012" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Oculus 探索 2</font></font></a></li>
+<li><a href="https://twitter.com/HeyPuter/status/1767971178864587057" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特斯拉 Model S</font></font></a></li>
+<li><a href="https://twitter.com/HeyPuter/status/1772858333751636310" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特斯拉 Y 型</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特斯拉 Model 3</font></font></li>
+</ul>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">制作人员</font></font></h2><a id="user-content-credits" class="anchor" aria-label="永久链接：学分" href="#credits"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://unsplash.com/photos/blue-orange-and-yellow-wallpaper-E8Ufcyxz514" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">默认壁纸由Milad Fakurian</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建</font><font style="vertical-align: inherit;">并发布在</font></font><a href="https://unsplash.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsplash</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图标由</font></font><a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Papirus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">制作，遵循 GPL-3.0 许可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图标由</font></font><a href="https://iconoir.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Iconoir</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">制作，获得 MIT 许可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图标由</font></font><a href="https://github.com/elementary/icons"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Elementary Icons</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供，遵循 GPL-3.0 许可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图标由</font></font><a href="https://tabler.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tabler Icons</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供，并获得 MIT 许可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图标由</font></font><a href="https://icons.getbootstrap.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bootstrap-icons</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供，并获得 MIT 许可。</font></font></p>
+</article></div>
